@@ -1,0 +1,25 @@
+form{
+    margin-top: 200px;
+    
+}
+
+button{
+    background-color: red;
+    height: 30px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+form{
+    
+    margin-top: 140px;
+    width: 400px;
+    height:460px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 15px ;
+    color: black;
+    cursor: pointer;}
+
+    p{
+        padding-top: 20px;
+    }

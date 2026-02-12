@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+body{
+    background-image: url("imagw.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+}
+form{
+    background-color: rgba(0,0,0,0.5);
+    margin-top: 140px;
+    width: 400px;
+    height:460px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 15px ;
+    color: red;
+    cursor: pointer;
+    
+}
+div h2{
+    padding-top: 10px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.959);
+    letter-spacing: 1px;
+    font-size: 30px;
+      
+}
+div h2:hover{
+    color:red;
+}
+
+input{
+    margin-left: 50px;
+   padding: 0px 15px;
+   font-size: 20px;
+   border-radius: 5px;
+   background: rgba(0,0,0,0.5);
+
+   color: #fff;
+
+}
+form input:focus{
+    
+    border: 2px solid blueviolet;
+
+
+}
+p.big{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-left: 50px;
+    color: whitesmoke;
+    
+
+}
+p.small{
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+    
+}
+img{
+    margin-left: 50px;
+    height: 50px;
+
+}
+
+select{
+    letter-spacing: 1px;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: auto;
+    height: 30px;
+    cursor: pointer;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+}
+
+.select-box select::-webkit-scrollbar{
+    width:8px;
+}
+.select-box select::-webkit-scrollbar-track{
+    background: #fff;
+}
+.select-box select::-webkit-scrollbar-thumb{
+    background: #888;
+    border-radius: 8px;
+    border-right: 2px solid #fff;
+}
+
+div.pp{
+
+    margin-left: 20px;
+}
+span{
+    font-size: 30px;
+    font-weight: bold;
+    color: red;
+    margin-left: 50px;
+    margin-top: 80px;
+    
+}
+
+form .drop-list{
+    display: flex;
+}
+
+.exchange-rate{
+    font-size: 20px;
+    color: orchid;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+button{
+    letter-spacing: 2px;
+    margin-top: 30px;
+    margin-left: 80px ;
+    font-size: 20px;
+    width: 240px;
+    height: 30px;
+    cursor: pointer;
+    color: black ;
+    font-weight: bold;
+    background: red;
+}
+button:hover{   
+    color: blue;
+    background: black;
+
+
+}
+

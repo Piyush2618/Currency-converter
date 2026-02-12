@@ -1,0 +1,28 @@
+let country_code = {
+    
+"INR" : "IN",
+"EUR" : "EU",
+"USD" : "US",
+"JPY" : "JP",
+"GBP" : "GB",
+"CHF" : "CH",
+"CAD" : "CA",
+"ZAR" : "ZA",
+"AUD" : "AU",
+"NZD" : "NZ",
+"ZAR" : "ZA",
+"GBP" : "GB",
+"CNY" : "CN",
+"CAD" : "CA",
+"CHF" : "CH",
+"HKD" : "HK",
+"SGD" : "SG",
+"SEK" : "SE",
+"KRW" : "KR",
+"NOK" : "NO",
+"MXN" : "MX",
+"ZAR" : "ZA",
+"AED" : "AE",
+"NPR" : "NP",
+
+}
